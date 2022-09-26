@@ -54,3 +54,7 @@
 
 ***
 # 🎬 5. 시연 영상
+
+https://user-images.githubusercontent.com/103614919/192180216-07bc7a35-c3e1-4fef-be8a-8502c7d96600.mp4
+
+
