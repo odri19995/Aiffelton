@@ -2,3 +2,5 @@
 
 모델은 3요소 판별, 긍부정 모두 klue bert 를 사용했으며 
 MLM task를 통한 mask 후 fine 튜닝을 한번 더 해주었다.
+
+test temp
