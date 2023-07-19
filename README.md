@@ -57,4 +57,13 @@
 
 https://user-images.githubusercontent.com/103614919/192180216-07bc7a35-c3e1-4fef-be8a-8502c7d96600.mp4
 
+### 긍정 리뷰와 부정 리뷰가 작성 되는 경우
+![streamlit_demo_first(2)](https://user-images.githubusercontent.com/103625261/192456906-0bbdd04b-7a03-4ab2-b06f-5801f62cdc21.gif)
+### 한 문장안에 3가지 요소들이 모두 있는 경우
+![streamlit_demo_second](https://user-images.githubusercontent.com/103625261/192457450-f47d89a1-7edd-4e7d-b4f1-bf51abd5ea01.gif)
+### 2가지 요소만 작성하고 시간 초과로 인해 종료 되는 경우
+![streamlit_demo_third(2)](https://user-images.githubusercontent.com/103625261/192457558-8b4c7408-f9f2-4f6f-ac10-62563149eeb1.gif)
+
+
+
 
